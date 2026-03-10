@@ -62,4 +62,4 @@ case $choice in
         ;;
 esac
 
-echo "Setup process finished. Dashboard available at http://localhost:19999"
+header "Setup process finished. Dashboard available at http://localhost:19999"
