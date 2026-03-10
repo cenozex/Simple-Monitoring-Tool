@@ -22,10 +22,17 @@ ____  _                 _        __  __  _____
 [![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-Monitoring_Dashboard-F97316?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/projects/simple-monitoring-dashboard)
 
 <br/>
 
-> **A minimal, no-nonsense toolkit to deploy real-time system monitoring on any Linux machine — in under 60 seconds.**
+> **A minimal, no-nonsense toolkit to deploy real-time system monitoring on any Linux machine — in under 60 seconds. 
+<h2>Roadmap.sh Project #03</h2>**
+</br>
+
+<br/>
+
+> Part of the **[Roadmap.sh Simple Monitoring Dashboard](https://roadmap.sh/projects/simple-monitoring-dashboard)** curriculum.
 
 <br/>
 
@@ -59,18 +66,15 @@ ____  _                 _        __  __  _____
 
 **This** is a lightweight Bash-based toolkit that wraps [Netdata](https://www.netdata.cloud/) — the open-source, real-time performance monitoring agent — with clean install, test, and uninstall scripts designed for Linux systems.
 
-Project for DevOps:
-https://roadmap.sh/projects/simple-monitoring-dashboard
-
 Whether you're spinning up a fresh VPS, benchmarking a home server, or just want eyes on your system metrics — this toolkit gets you there fast.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                      NETWATCH TOOLKIT                       │
+│                       TOOLKIT                               │
 │                                                             │
-│   [setup.sh]  ──▶  Install Netdata (4 flexible modes)      │
-│   [test.sh]   ──▶  Hammer CPU & I/O to test dashboards     │
-│   [cleanup.sh]──▶  Removal, clean & painless          │
+│   [setup.sh]  ──▶  Install Netdata (4 flexible modes)       │
+│   [test.sh]   ──▶  Hammer CPU & I/O to test dashboards      │
+│   [cleanup.sh]──▶  Removal, clean & painless                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -295,14 +299,29 @@ sudo apt-get install wget -y
 
 ---
 
+## 🔗 References & Credits
+
+| | |
+|:---|:---|
+| 📚 **Project Source** | [roadmap.sh/projects/simple-monitoring-dashboard](https://roadmap.sh/projects/simple-monitoring-dashboard) |
+| 🐳 **Netdata Docs** | [learn.netdata.cloud](https://learn.netdata.cloud) |
+| 🐧 **Platform** | Ubuntu / Debian Linux |
+
+---
+
 <div align="center">
 
-
+<br/>
 
 *If this saved you time, drop a ⭐ — it helps more than you know.*
 
 <br/>
 
 [![Star this repo](https://img.shields.io/github/stars/cenozex/Simple-Monitoring-Tool?style=social)](https://github.com/cenozex/Simple-Monitoring-Tool)
+
+<br/>
+
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux Powered](https://img.shields.io/badge/Powered%20by-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
