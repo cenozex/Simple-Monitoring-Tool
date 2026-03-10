@@ -36,7 +36,7 @@ echo""
 read -p "Enter choice [1-4]: " choice
 echo""
 
-BASE_CMD=""
+BASE_CMD="wget -O /tmp/netdata-kickstart.sh https://get.netdata.cloud/kickstart.sh && sh /tmp/netdata-kickstart.sh"
 
 case $choice in
     1)
