@@ -300,6 +300,6 @@ sudo apt-get install wget -y
 
 <br/>
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/netwatch?style=social)](https://github.com/cenozex/Simple-Monitoring-Tool)
+[![Star this repo](https://img.shields.io/github/stars/cenozex/Simple-Monitoring-Tool?style=social)](https://github.com/cenozex/Simple-Monitoring-Tool)
 
 </div>
