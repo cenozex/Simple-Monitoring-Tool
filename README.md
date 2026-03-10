@@ -57,7 +57,10 @@ ____  _                 _        __  __  _____
 
 ## 📡 Overview
 
-**Netwatch** is a lightweight Bash-based toolkit that wraps [Netdata](https://www.netdata.cloud/) — the open-source, real-time performance monitoring agent — with clean install, test, and uninstall scripts designed for Linux systems.
+**This** is a lightweight Bash-based toolkit that wraps [Netdata](https://www.netdata.cloud/) — the open-source, real-time performance monitoring agent — with clean install, test, and uninstall scripts designed for Linux systems.
+
+Project for DevOps:
+https://roadmap.sh/projects/simple-monitoring-dashboard
 
 Whether you're spinning up a fresh VPS, benchmarking a home server, or just want eyes on your system metrics — this toolkit gets you there fast.
 
