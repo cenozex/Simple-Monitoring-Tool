@@ -27,7 +27,7 @@ ____  _                 _        __  __  _____
 <br/>
 
 > **A minimal, no-nonsense toolkit to deploy real-time system monitoring on any Linux machine — in under 60 seconds. 
-<h2>Roadmap.sh Project #03</h2>**
+<h2>Roadmap.sh Project #02</h2>**
 </br>
 
 <br/>
